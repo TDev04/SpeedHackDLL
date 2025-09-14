@@ -1,6 +1,6 @@
 # SpeedHackDLL (ONLY X86)
 
-Time-Scaler is a DLL project that allows you to change the system time for a specific process. It works by hooking into core Windows timing functions like `QueryPerformanceCounter`, `GetTickCount`, and `GetTickCount64` and scaling their output. This can be useful for various purposes, such as speeding up or slowing down processes.
+SpeedHack is a DLL project that allows you to change the system time for a specific process. It works by hooking into core Windows timing functions like `QueryPerformanceCounter`, `GetTickCount`, and `GetTickCount64` and scaling their output. This can be useful for various purposes, such as speeding up or slowing down processes.
 
 ---
 
