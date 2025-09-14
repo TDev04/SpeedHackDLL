@@ -53,9 +53,3 @@ Once the DLL is injected, a console window will appear. You can enter a new spee
 2.  Open the project file in Visual Studio.
 3.  Configure your project to link against the Detours library.
 4.  Build the project to generate the `SpeedHackDLL.dll` file.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
